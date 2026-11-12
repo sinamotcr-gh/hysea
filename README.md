@@ -16,7 +16,5 @@ Para ejecutar estos scripts es necesario contar con:
 
 A continuación se presenta una introducción general a la organización de las carpetas y los scripts incluidos en este proyecto:
 
-
-  * nombre_script_4.py: Breve descripción de lo que hace este archivo.
-
+* */01_utils*: scripts para visualización y análisis preliminar de inputs a los modelos.
 
